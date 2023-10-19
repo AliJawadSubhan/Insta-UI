@@ -40,7 +40,7 @@ class ProfilePage extends StatelessWidget {
         child: Scaffold(
           body: Column(
             children: [
-              SizedBox(
+              const SizedBox(
                 height: 12,
               ),
               Row(
